@@ -1,5 +1,19 @@
 {
   "devDependencies": {
     "@types/node": "^20.14.9"
-  }
+  },
+  "dependencies": {
+    "inquirer": "^10.0.1"
+  },
+  "name": "codes-for-class-example",
+  "description": "\"# tests_repo\"",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
